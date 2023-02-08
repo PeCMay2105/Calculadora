@@ -1,0 +1,33 @@
+header{
+    border:solid,black;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+}
+.conteiner{
+    margin:0,auto;
+    width:auto;
+    text-align: center;
+
+}
+form{
+    margin:0,auto;
+    display:inline-block;
+
+    
+}
+.visor{
+    width:230px;
+    margin-top: 50px;
+}
+.moldura{
+    border:5px solid black;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    border: 2px solid gray;
+    padding:15px;
+}
