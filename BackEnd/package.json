@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "GentlemanDB.js",
+  "scripts": {
+    "test": "console.log('módulo iniciado')"
+  },
+  "author": "PeCMay",
+  "license": "ISC",
+  "type": "module"
+}
